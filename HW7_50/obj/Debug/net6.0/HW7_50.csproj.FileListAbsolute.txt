@@ -1,0 +1,15 @@
+C:\GB\HW7_50\bin\Debug\net6.0\HW7_50.exe
+C:\GB\HW7_50\bin\Debug\net6.0\HW7_50.deps.json
+C:\GB\HW7_50\bin\Debug\net6.0\HW7_50.runtimeconfig.json
+C:\GB\HW7_50\bin\Debug\net6.0\HW7_50.dll
+C:\GB\HW7_50\bin\Debug\net6.0\HW7_50.pdb
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.csproj.AssemblyReference.cache
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.AssemblyInfoInputs.cache
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.AssemblyInfo.cs
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.csproj.CoreCompileInputs.cache
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.dll
+C:\GB\HW7_50\obj\Debug\net6.0\refint\HW7_50.dll
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.pdb
+C:\GB\HW7_50\obj\Debug\net6.0\HW7_50.genruntimeconfig.cache
+C:\GB\HW7_50\obj\Debug\net6.0\ref\HW7_50.dll

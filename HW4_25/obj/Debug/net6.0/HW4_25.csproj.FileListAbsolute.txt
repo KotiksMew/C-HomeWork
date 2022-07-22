@@ -1,0 +1,15 @@
+C:\GB\HW4_25\bin\Debug\net6.0\HW4_25.exe
+C:\GB\HW4_25\bin\Debug\net6.0\HW4_25.deps.json
+C:\GB\HW4_25\bin\Debug\net6.0\HW4_25.runtimeconfig.json
+C:\GB\HW4_25\bin\Debug\net6.0\HW4_25.dll
+C:\GB\HW4_25\bin\Debug\net6.0\HW4_25.pdb
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.csproj.AssemblyReference.cache
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.AssemblyInfoInputs.cache
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.AssemblyInfo.cs
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.csproj.CoreCompileInputs.cache
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.dll
+C:\GB\HW4_25\obj\Debug\net6.0\refint\HW4_25.dll
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.pdb
+C:\GB\HW4_25\obj\Debug\net6.0\HW4_25.genruntimeconfig.cache
+C:\GB\HW4_25\obj\Debug\net6.0\ref\HW4_25.dll

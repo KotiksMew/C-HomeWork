@@ -1,0 +1,15 @@
+C:\GB\HW3_19\bin\Debug\net6.0\HW3_19.exe
+C:\GB\HW3_19\bin\Debug\net6.0\HW3_19.deps.json
+C:\GB\HW3_19\bin\Debug\net6.0\HW3_19.runtimeconfig.json
+C:\GB\HW3_19\bin\Debug\net6.0\HW3_19.dll
+C:\GB\HW3_19\bin\Debug\net6.0\HW3_19.pdb
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.csproj.AssemblyReference.cache
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.AssemblyInfoInputs.cache
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.AssemblyInfo.cs
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.csproj.CoreCompileInputs.cache
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.dll
+C:\GB\HW3_19\obj\Debug\net6.0\refint\HW3_19.dll
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.pdb
+C:\GB\HW3_19\obj\Debug\net6.0\HW3_19.genruntimeconfig.cache
+C:\GB\HW3_19\obj\Debug\net6.0\ref\HW3_19.dll

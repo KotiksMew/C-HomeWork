@@ -1,0 +1,15 @@
+C:\GB\HW6_43\bin\Debug\net6.0\HW6_43.exe
+C:\GB\HW6_43\bin\Debug\net6.0\HW6_43.deps.json
+C:\GB\HW6_43\bin\Debug\net6.0\HW6_43.runtimeconfig.json
+C:\GB\HW6_43\bin\Debug\net6.0\HW6_43.dll
+C:\GB\HW6_43\bin\Debug\net6.0\HW6_43.pdb
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.csproj.AssemblyReference.cache
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.AssemblyInfoInputs.cache
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.AssemblyInfo.cs
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.csproj.CoreCompileInputs.cache
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.dll
+C:\GB\HW6_43\obj\Debug\net6.0\refint\HW6_43.dll
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.pdb
+C:\GB\HW6_43\obj\Debug\net6.0\HW6_43.genruntimeconfig.cache
+C:\GB\HW6_43\obj\Debug\net6.0\ref\HW6_43.dll

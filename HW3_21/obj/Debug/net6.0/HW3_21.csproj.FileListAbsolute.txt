@@ -1,0 +1,15 @@
+C:\GB\HW3_21\bin\Debug\net6.0\HW3_21.exe
+C:\GB\HW3_21\bin\Debug\net6.0\HW3_21.deps.json
+C:\GB\HW3_21\bin\Debug\net6.0\HW3_21.runtimeconfig.json
+C:\GB\HW3_21\bin\Debug\net6.0\HW3_21.dll
+C:\GB\HW3_21\bin\Debug\net6.0\HW3_21.pdb
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.csproj.AssemblyReference.cache
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.AssemblyInfoInputs.cache
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.AssemblyInfo.cs
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.csproj.CoreCompileInputs.cache
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.dll
+C:\GB\HW3_21\obj\Debug\net6.0\refint\HW3_21.dll
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.pdb
+C:\GB\HW3_21\obj\Debug\net6.0\HW3_21.genruntimeconfig.cache
+C:\GB\HW3_21\obj\Debug\net6.0\ref\HW3_21.dll
